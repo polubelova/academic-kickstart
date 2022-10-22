@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Cryptography Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: INRIA Paris
-  url: "https://prosecco.gforge.inria.fr"
+- name: Nomadic Labs
+  url: "https://www.nomadic-labs.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  #- course: PhD in computer science
-   # institution: Ecole normale superieure, Paris
-    #year: current
+  - course: Ph.D. in computer science
+    institution: École Normale Supérieure, Paris
+    year: 2022
   - course: M.Sc. in mathematics and computer science
     institution: Saint Petersburg State University
     year: 2017
@@ -58,11 +58,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/polubelova
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/polubelova
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +77,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the [PROSECCO](https://prosecco.gforge.inria.fr) team at [INRIA Paris,](https://www.inria.fr/fr/centre-inria-de-paris) working under the supervision of [Karthikeyan Bhargavan.](https://prosecco.gforge.inria.fr/personal/karthik/)
+I am a Cryptography Engineer in the [Privacy](https://research-development.nomadic-labs.com/files/cryptography.html) team at [Nomadic Labs.](https://www.nomadic-labs.com/)
+Before joining the team, I was a PhD student in the [PROSECCO](https://team.inria.fr/prosecco/) team at [INRIA Paris,](https://www.inria.fr/fr/centre-inria-de-paris) working under the supervision of [Karthikeyan Bhargavan.](https://bhargavan.info/)
+
+The information about my PhD defense is available [here.](https://www.theses.fr/s191134) The slides and report can be found [here](files/phd_slides.pdf) and [here.](files/phd_thesis.pdf)
+
+Also, I am one of the maintainers of the [hacl-star](https://github.com/hacl-star/hacl-star) project.

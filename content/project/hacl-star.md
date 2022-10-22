@@ -3,7 +3,7 @@
 
 title: "HACL*"
 subtitle: ""
-summary: "[a verified library of cryptographic primitives written in F*](https://github.com/project-everest/hacl-star)"
+summary: "[a verified library of cryptographic primitives written in F*](https://github.com/hacl-star/hacl-star/)"
 authors: []
 tags: []
 categories: []
